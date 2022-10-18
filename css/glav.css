@@ -5,13 +5,13 @@ body{
 }
 
 :root {
-    --var-body-bg: url("/img/background.jpg");
+    --var-body-bg: url("../img/background.jpg");
     --var-body-fc: #333;
     --var-bodt-cbg: rgb(255, 255, 255);
 
 }
 [dark] {
-    --var-body-bg: url("/img/backgroundnight.jpg");
+    --var-body-bg: url("../img/backgroundnight.jpg");
     --var-body-fc: rgb(255, 255, 255);
     --var-bodt-cbg: rgb(61, 68, 107);
 }
